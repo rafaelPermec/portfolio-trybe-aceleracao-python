@@ -1,4 +1,4 @@
-## Modulo 6 - Debug com Python :heavy_check_mark:
+## Modulo 6 - Django II :heavy_check_mark:
 
 - [ ] M06-01: _Autenticação_
 - [ ] M06-02: _Testando aplicações Django_

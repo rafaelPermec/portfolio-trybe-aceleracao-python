@@ -45,7 +45,7 @@ Após o programa de Aceleração, o aluno será capaz de construir soluções co
 - [ ] M05-04: _Django Rest Framework_
 - [ ] M05-05: **Projeto**: [SpotNews]()
 
-##### Modulo 6 - Debug com Python
+##### Modulo 6 - Django II
 
 - [ ] M06-01: _Autenticação_
 - [ ] M06-02: _Testando aplicações Django_
